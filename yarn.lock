@@ -954,6 +954,9 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
+"@modules/app-menu@file:./modules/app-menu/":
+  version "1.0.0"
+
 "@modules/chat@file:./modules/chat":
   version "1.0.0"
   dependencies:
@@ -962,7 +965,7 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
 "@modules/privacy-policy@file:./modules/privacy-policy":
